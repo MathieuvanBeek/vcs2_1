@@ -3,8 +3,10 @@ Pizza:
 -Tomatensaus
 -Salami
 -Geraspte kaas
+-Mozzarella
 
 Ontbijt:
 -Brood
 -boter
 -kaas
+-ham
